@@ -4,6 +4,8 @@
 <p>In today's interconnected world, mastering the intricacies of network administration and domain management is not just a valuable skill—it's a critical one. The ability to seamlessly integrate multiple systems, manage vast numbers of users, and ensure data security is at the core of modern IT infrastructure. To sharpen my understanding and gain hands-on experience, I embarked on a mission to create a home lab environment. This project was centred around setting up an Active Directory (AD) domain within a virtualised environment.
 
 Active Directory, a directory service developed by Microsoft, plays a pivotal role in network administration, providing a centralised location for network object management and ensuring the availability of network resources to users and computers. The home lab setup detailed in this write-up simulates a real-world scenario, one where a single domain controller manages a significant number of user accounts and interfaces with a client machine.
+
+<b><i>The script and names.txt file used in this lab are available within this repository</b></i>
 </p>
 
 <h2>Objectives</h2>
